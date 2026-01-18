@@ -1,0 +1,10 @@
+#container {width: 515px;margin: 0 auto; background-color: rgb(184, 181, 181); height: 302px;padding-top: 3px;
+}
+#header {width: 98%;background-color: rgb(63, 63, 214); height: 90px;margin: 0 auto;margin-bottom: 5px;
+}
+.down { display: flex;}
+#second { background-color: 
+    red;width: 20%;height: 170px;margin-left: 5px;margin-right: 10px;}
+#content { background-color: yellow;width: 392px;height: 200px ;}
+.row { background-color: purple;height: 110px;width: 110px;margin: 7px auto;}
+#bottom-bar{ width: 95%;background-color: rgb(227, 174, 199);height: 32%;margin: 0 auto;padding-top: 5px;}
